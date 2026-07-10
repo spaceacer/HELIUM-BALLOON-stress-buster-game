@@ -30,7 +30,7 @@ REEL_SPEED = 2
 AIR_DENSITY = 0.0006
 DRAG_COEFF = 0.47        
 VERLET_SEGMENTS = 4     # Slightly more segments for smoother curvature
-VERLET_ITERATIONS = 15     # NEW: Increased from 3 to 8 for much higher structural stiffness
+VERLET_ITERATIONS = 6     # NEW: Increased from 3 to 8 for much higher structural stiffness
 
 # Over-inflation Thresholds
 DANGER_THRESHOLD = 0.85 
